@@ -5,6 +5,10 @@ body {
 	background-position: center top;
 	text-shadow: 1px 1px rgba(155,155,155,0.2);
 }
+a {
+	text-decoration: none;
+	color: black;
+}
 #main {
 	margin: -25px auto 0 auto;
 }
